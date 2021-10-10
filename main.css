@@ -8,6 +8,10 @@
   border: 1px solid #03a9f4;
   width: 120px;
   height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: xxx-large;
 }
 
 .player {
